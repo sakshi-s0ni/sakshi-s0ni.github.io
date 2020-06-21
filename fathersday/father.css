@@ -42,6 +42,7 @@ img[class^="col-xs-3"]{
 	border-radius:5%;
 	margin:1%;
 	width:1vw;
+	height:20%;
 }
 @media screen and (min-width:720px)
 {
