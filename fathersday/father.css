@@ -36,10 +36,12 @@ section{
 } 
 img[class^="col-xs-3"]{
 	margin:1%;
+	width:1vw;
 }
 .mach{
 	border-radius:5%;
 	margin:1%;
+	width:1vw;
 }
 @media screen and (min-width:720px)
 {
