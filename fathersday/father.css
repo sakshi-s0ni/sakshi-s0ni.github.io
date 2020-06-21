@@ -9,7 +9,7 @@ footer{
 }
 body{
 	background-color:#e2ccea;
-	font-family:Bookman;
+	font-family:Bookman ,"Times New Roman";
 	#background-image:url("mag.jpg");
 }
 .intro{
